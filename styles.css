@@ -10,6 +10,29 @@ ul{
 }
 
 div{
-	background-color: orange;
+	border: 2px solid rgb(52, 122, 126);
 }
 
+.img{
+	display: block;
+	width: 160px;
+	height: 320 px; 
+}
+
+table {
+   width: 100%;
+}
+
+td {
+   //width: 25%;
+   text-align: left;
+   vertical-align: top;
+   //border: 1px solid #000;
+   border-collapse: collapse;
+   //padding: 0.3em;
+}
+
+img{
+	width: 360px;
+	height: 640 px; 
+}
